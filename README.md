@@ -1,4 +1,4 @@
-# snake_game_py
+# Snake Game
 
 This is a simple terminal-based Snake game implemented in Python.
 
